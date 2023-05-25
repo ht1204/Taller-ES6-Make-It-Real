@@ -6,6 +6,15 @@
 //   },
 // };
 
+// const persona = {
+//   peso: 65,
+//   estatura: 1.8,
+//   bmi: () => {
+//     return this.peso / this.estatura ** 2;
+//   },
+// };
+
+
 const persona = {
   peso: 65,
   estatura: 1.8,

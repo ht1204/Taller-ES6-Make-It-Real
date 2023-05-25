@@ -93,3 +93,53 @@ const person = {
 // const array_to_transfer = [...array, 5, 6];
 // console.log(array_to_transfer);
 
+
+/* Functions */
+
+// function greet() {
+//   console.log("Hola");
+// }
+
+// const greet = function () {
+//   console.log('Hola');
+// };
+
+
+// const greet = () => {
+//   console.log('Hola');
+// }
+
+// greet();
+
+
+// function suma(a, b) {
+//   return a + b;
+// }
+
+// const suma = function(a, b) {
+//   return a + b;
+// }
+
+// const suma = (a, b) => {
+//   return a + b;
+// }
+
+// const suma = (a, b) => a + b;
+
+// const result = suma(2, 2);
+// console.log(result);
+
+// const cat = {
+//   getName: function() {
+//     console.log("Meow, my name is ", this.name ?? "Cat");
+//   }
+// }
+
+// const cat = {
+//   getName: () => {
+//     console.log('Meow, my name is ', this.name ?? 'Cat');
+//   },
+// };
+
+// cat.name = "Garfield";
+// cat.getName();
